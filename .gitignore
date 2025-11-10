@@ -1,0 +1,9 @@
+# Abaikan file environment
+.env
+
+# Abaikan folder dependensi
+node_modules/
+vendor/
+
+# Abaikan file log
+*.log
