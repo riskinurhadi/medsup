@@ -1,9 +1,8 @@
-# Abaikan file environment
-.env
-
-# Abaikan folder dependensi
 node_modules/
-vendor/
-
-# Abaikan file log
+uploads/
+.env
+*.token
 *.log
+.DS_Store
+.instagram_account_id
+.tiktok_state
